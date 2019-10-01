@@ -6,8 +6,15 @@ import { AuthGuard } from './_guards/auth.guard';
 
 export const appRoutes: Routes = [
   { path: '', component: HomeComponent},
-  { path: 'clients', component: ClientListComponent, canActivate: [AuthGuard]},
-  { path: 'checklists', component: ChecklistListComponent},
+  {
+    path: '',
+    runGuardsAndResolvers: 'always',
+    canActivate: [AuthGuard],
+    children: [
+      { path: 'clients', component: ClientListComponent},
+      { path: 'checklists', component: ChecklistListComponent},
+    ]
+  },
   { path: '**', redirectTo: '', pathMatch: 'full'},
 ];
 
