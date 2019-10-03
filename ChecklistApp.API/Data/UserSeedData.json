@@ -1,0 +1,1172 @@
+[
+  {
+    "Username": "Price",
+    "IsActive": true,
+    "IsAdmin": false,
+    "MainUser": false,
+    "IdentificationCode": "99621465P",
+    "Company": "GEEKFARM",
+    "Name": "Lorna",
+    "Email": "lorna@geekfarm.biz",
+    "Phone": "+1 (950) 422-2882",
+    "Address": "915 Arlington Place",
+    "City": "Echo",
+    "Country": "Wisconsin",
+    "registered": "2016/05/20",
+    "About": "Duis qui esse nulla quis cupidatat ea cillum in deserunt cillum duis enim ex minim. Magna incididunt qui velit deserunt irure occaecat adipisicing proident consectetur deserunt amet mollit et dolor. Cillum pariatur magna nulla laborum enim proident officia aute consectetur nulla mollit laboris veniam anim. Occaecat deserunt id et qui occaecat voluptate aute non esse.",
+    "Clients": [
+      {
+        "Name": "Paulette Mejia",
+        "IdentificationCode": "B69839120",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "ea sint duis aliqua sunt",
+            "Location": "New Jersey",
+            "Purpose": "consectetur",
+            "Importance": "nulla",
+            "CurrentState": "quis",
+            "Manufacture": "2016/09/21",
+            "Installed": "2018/05/14",
+            "Inspected": "2016/04/06",
+            "IsRejected": false,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "culpa proident duis proident ullamco",
+            "Location": "Nevada",
+            "Purpose": "dolor",
+            "Importance": "nostrud",
+            "CurrentState": "non",
+            "Manufacture": "2014/04/06",
+            "Installed": "2015/11/04",
+            "Inspected": "2016/11/14",
+            "IsRejected": false,
+            "IsActive": true
+          }
+        ]
+      },
+      {
+        "Name": "Blanche Chaney",
+        "IdentificationCode": "B52085441",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "enim Lorem consequat incididunt ex",
+            "Location": "District Of Columbia",
+            "Purpose": "reprehenderit",
+            "Importance": "exercitation",
+            "CurrentState": "ad",
+            "Manufacture": "2015/12/06",
+            "Installed": "2017/07/06",
+            "Inspected": "2017/08/17",
+            "IsRejected": false,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "id consequat mollit fugiat enim",
+            "Location": "South Dakota",
+            "Purpose": "est",
+            "Importance": "veniam",
+            "CurrentState": "sint",
+            "Manufacture": "2014/06/03",
+            "Installed": "2019/08/09",
+            "Inspected": "2018/09/25",
+            "IsRejected": true,
+            "IsActive": true
+          }
+        ]
+      },
+      {
+        "Name": "Rosario Byers",
+        "IdentificationCode": "B85938941",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "enim aliquip cillum ad occaecat",
+            "Location": "Arizona",
+            "Purpose": "ad",
+            "Importance": "elit",
+            "CurrentState": "dolore",
+            "Manufacture": "2016/11/11",
+            "Installed": "2014/09/06",
+            "Inspected": "2019/05/28",
+            "IsRejected": false,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "cillum ut fugiat dolore commodo",
+            "Location": "Idaho",
+            "Purpose": "elit",
+            "Importance": "nulla",
+            "CurrentState": "eu",
+            "Manufacture": "2015/06/29",
+            "Installed": "2016/12/30",
+            "Inspected": "2019/02/15",
+            "IsRejected": false,
+            "IsActive": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Username": "Katie",
+    "IsActive": true,
+    "IsAdmin": true,
+    "MainUser": false,
+    "IdentificationCode": "7468920P",
+    "Company": "DADABASE",
+    "Name": "Eve",
+    "Email": "eve@dadabase.ca",
+    "Phone": "+1 (831) 430-2280",
+    "Address": "499 Kingsland Avenue",
+    "City": "Genoa",
+    "Country": "Maryland",
+    "registered": "2017/12/08",
+    "About": "Adipisicing amet excepteur consequat anim officia irure cupidatat. Cillum proident exercitation enim est nisi ex nostrud. Ad duis cillum aliquip irure amet ullamco eiusmod cupidatat esse do. Sint officia in eiusmod culpa.",
+    "Clients": [
+      {
+        "Name": "Connie Reese",
+        "IdentificationCode": "B98787350",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "dolor amet sint ullamco velit",
+            "Location": "Kansas",
+            "Purpose": "ad",
+            "Importance": "excepteur",
+            "CurrentState": "officia",
+            "Manufacture": "2017/03/28",
+            "Installed": "2014/11/13",
+            "Inspected": "2014/05/09",
+            "IsRejected": true,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "quis culpa reprehenderit proident quis",
+            "Location": "New Mexico",
+            "Purpose": "est",
+            "Importance": "incididunt",
+            "CurrentState": "occaecat",
+            "Manufacture": "2015/10/05",
+            "Installed": "2015/03/07",
+            "Inspected": "2014/05/31",
+            "IsRejected": true,
+            "IsActive": false
+          }
+        ]
+      },
+      {
+        "Name": "Dillard Mcpherson",
+        "IdentificationCode": "B28225926",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "qui eiusmod magna ea do",
+            "Location": "Florida",
+            "Purpose": "commodo",
+            "Importance": "minim",
+            "CurrentState": "ea",
+            "Manufacture": "2014/02/25",
+            "Installed": "2015/08/04",
+            "Inspected": "2016/11/14",
+            "IsRejected": true,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "magna pariatur culpa veniam dolore",
+            "Location": "Guam",
+            "Purpose": "cillum",
+            "Importance": "dolor",
+            "CurrentState": "enim",
+            "Manufacture": "2014/10/04",
+            "Installed": "2016/07/20",
+            "Inspected": "2016/07/31",
+            "IsRejected": true,
+            "IsActive": false
+          }
+        ]
+      },
+      {
+        "Name": "Addie Vazquez",
+        "IdentificationCode": "B58904703",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "ullamco sit voluptate non ullamco",
+            "Location": "Utah",
+            "Purpose": "do",
+            "Importance": "incididunt",
+            "CurrentState": "labore",
+            "Manufacture": "2016/06/27",
+            "Installed": "2019/06/16",
+            "Inspected": "2016/03/09",
+            "IsRejected": true,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "excepteur sunt nisi consectetur eiusmod",
+            "Location": "Ohio",
+            "Purpose": "commodo",
+            "Importance": "id",
+            "CurrentState": "minim",
+            "Manufacture": "2017/08/29",
+            "Installed": "2017/07/06",
+            "Inspected": "2017/03/05",
+            "IsRejected": true,
+            "IsActive": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Username": "Zimmerman",
+    "IsActive": true,
+    "IsAdmin": true,
+    "MainUser": false,
+    "IdentificationCode": "96185457P",
+    "Company": "GENMY",
+    "Name": "Richard",
+    "Email": "richard@genmy.tv",
+    "Phone": "+1 (986) 412-3152",
+    "Address": "903 Everett Avenue",
+    "City": "Tioga",
+    "Country": "Nebraska",
+    "registered": "2014/12/10",
+    "About": "Ullamco irure occaecat et Lorem anim adipisicing pariatur exercitation. Nulla consectetur et irure do culpa dolore id ea dolor ullamco nulla nostrud occaecat. Duis ipsum aliquip consectetur eiusmod dolore. Labore proident qui nisi ad ipsum et ea minim incididunt qui excepteur exercitation occaecat. Consequat do in officia sunt do duis. Officia nisi dolore sit ea id eiusmod eiusmod. Adipisicing esse ex tempor elit irure sunt proident.",
+    "Clients": [
+      {
+        "Name": "Sheree Mcconnell",
+        "IdentificationCode": "B84634265",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "quis voluptate aute dolor nostrud",
+            "Location": "Rhode Island",
+            "Purpose": "exercitation",
+            "Importance": "Lorem",
+            "CurrentState": "deserunt",
+            "Manufacture": "2019/05/04",
+            "Installed": "2014/01/08",
+            "Inspected": "2015/01/20",
+            "IsRejected": true,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "commodo irure nulla dolore elit",
+            "Location": "Montana",
+            "Purpose": "amet",
+            "Importance": "ipsum",
+            "CurrentState": "ipsum",
+            "Manufacture": "2014/09/28",
+            "Installed": "2017/01/06",
+            "Inspected": "2018/12/02",
+            "IsRejected": true,
+            "IsActive": true
+          }
+        ]
+      },
+      {
+        "Name": "Blair Crawford",
+        "IdentificationCode": "B55932783",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "occaecat deserunt tempor ut nostrud",
+            "Location": "Hawaii",
+            "Purpose": "deserunt",
+            "Importance": "consectetur",
+            "CurrentState": "commodo",
+            "Manufacture": "2016/04/14",
+            "Installed": "2015/12/27",
+            "Inspected": "2016/04/27",
+            "IsRejected": false,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "proident tempor velit cupidatat commodo",
+            "Location": "Wyoming",
+            "Purpose": "fugiat",
+            "Importance": "eu",
+            "CurrentState": "ullamco",
+            "Manufacture": "2016/12/26",
+            "Installed": "2019/09/09",
+            "Inspected": "2017/08/01",
+            "IsRejected": false,
+            "IsActive": true
+          }
+        ]
+      },
+      {
+        "Name": "Hansen Hyde",
+        "IdentificationCode": "B64861891",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "eu cillum fugiat do proident",
+            "Location": "Oklahoma",
+            "Purpose": "eu",
+            "Importance": "est",
+            "CurrentState": "commodo",
+            "Manufacture": "2016/04/21",
+            "Installed": "2019/03/14",
+            "Inspected": "2016/07/13",
+            "IsRejected": false,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "incididunt elit aliqua id ad",
+            "Location": "Marshall Islands",
+            "Purpose": "duis",
+            "Importance": "fugiat",
+            "CurrentState": "occaecat",
+            "Manufacture": "2019/01/22",
+            "Installed": "2019/07/14",
+            "Inspected": "2018/06/10",
+            "IsRejected": false,
+            "IsActive": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Username": "Patel",
+    "IsActive": true,
+    "IsAdmin": true,
+    "MainUser": false,
+    "IdentificationCode": "71770164P",
+    "Company": "PAPRIKUT",
+    "Name": "Mack",
+    "Email": "mack@paprikut.net",
+    "Phone": "+1 (881) 526-3183",
+    "Address": "201 Lincoln Terrace",
+    "City": "Clarktown",
+    "Country": "Illinois",
+    "registered": "2018/12/10",
+    "About": "Do non nostrud irure esse cillum sint aute commodo aute voluptate consectetur sunt incididunt velit. Qui dolore aliqua minim anim mollit reprehenderit nostrud. Est incididunt non consectetur esse ullamco duis pariatur.",
+    "Clients": [
+      {
+        "Name": "Carmen Kemp",
+        "IdentificationCode": "B79315794",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "labore do dolor Lorem consectetur",
+            "Location": "New Hampshire",
+            "Purpose": "ullamco",
+            "Importance": "duis",
+            "CurrentState": "minim",
+            "Manufacture": "2016/12/19",
+            "Installed": "2014/07/01",
+            "Inspected": "2014/05/04",
+            "IsRejected": false,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "nostrud do nisi dolore exercitation",
+            "Location": "Iowa",
+            "Purpose": "laboris",
+            "Importance": "eiusmod",
+            "CurrentState": "laboris",
+            "Manufacture": "2015/01/03",
+            "Installed": "2017/09/05",
+            "Inspected": "2019/05/24",
+            "IsRejected": true,
+            "IsActive": false
+          }
+        ]
+      },
+      {
+        "Name": "Tamara Ford",
+        "IdentificationCode": "B98941234",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "dolor do eu eu qui",
+            "Location": "Oregon",
+            "Purpose": "cupidatat",
+            "Importance": "et",
+            "CurrentState": "est",
+            "Manufacture": "2019/01/08",
+            "Installed": "2015/12/05",
+            "Inspected": "2014/11/11",
+            "IsRejected": true,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "in magna aute culpa tempor",
+            "Location": "Indiana",
+            "Purpose": "commodo",
+            "Importance": "officia",
+            "CurrentState": "aute",
+            "Manufacture": "2018/11/03",
+            "Installed": "2019/03/02",
+            "Inspected": "2019/02/09",
+            "IsRejected": true,
+            "IsActive": true
+          }
+        ]
+      },
+      {
+        "Name": "Alicia Hill",
+        "IdentificationCode": "B89817528",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "aute reprehenderit dolor ad ut",
+            "Location": "Virgin Islands",
+            "Purpose": "enim",
+            "Importance": "minim",
+            "CurrentState": "ea",
+            "Manufacture": "2017/12/29",
+            "Installed": "2017/02/02",
+            "Inspected": "2016/07/12",
+            "IsRejected": false,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "aute esse non officia reprehenderit",
+            "Location": "Minnesota",
+            "Purpose": "voluptate",
+            "Importance": "velit",
+            "CurrentState": "mollit",
+            "Manufacture": "2017/09/04",
+            "Installed": "2018/01/29",
+            "Inspected": "2015/04/26",
+            "IsRejected": true,
+            "IsActive": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Username": "Gabriela",
+    "IsActive": false,
+    "IsAdmin": true,
+    "MainUser": true,
+    "IdentificationCode": "40509946P",
+    "Company": "CENTURIA",
+    "Name": "Mildred",
+    "Email": "mildred@centuria.biz",
+    "Phone": "+1 (930) 476-2300",
+    "Address": "272 Seaview Avenue",
+    "City": "Beechmont",
+    "Country": "New York",
+    "registered": "2015/12/20",
+    "About": "Sit quis elit eu magna laborum elit id et sunt duis fugiat sunt. Tempor labore dolor nisi et. Veniam labore velit velit ipsum anim pariatur ut sint culpa nostrud reprehenderit et sint irure. Eu eiusmod ipsum exercitation mollit enim dolore Lorem occaecat voluptate nostrud est. Incididunt ut sint in voluptate id commodo. Esse incididunt ullamco ut dolor sint cupidatat proident. Pariatur aute mollit Lorem velit.",
+    "Clients": [
+      {
+        "Name": "Kelley Melendez",
+        "IdentificationCode": "B87709926",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "quis consequat aliqua eiusmod est",
+            "Location": "North Carolina",
+            "Purpose": "sit",
+            "Importance": "qui",
+            "CurrentState": "nisi",
+            "Manufacture": "2015/05/31",
+            "Installed": "2016/05/26",
+            "Inspected": "2014/12/27",
+            "IsRejected": true,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "nulla irure dolore fugiat mollit",
+            "Location": "Palau",
+            "Purpose": "id",
+            "Importance": "anim",
+            "CurrentState": "velit",
+            "Manufacture": "2017/02/06",
+            "Installed": "2014/07/24",
+            "Inspected": "2016/12/23",
+            "IsRejected": false,
+            "IsActive": true
+          }
+        ]
+      },
+      {
+        "Name": "Sharpe Hamilton",
+        "IdentificationCode": "B24075271",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "laboris laborum exercitation est cillum",
+            "Location": "Puerto Rico",
+            "Purpose": "magna",
+            "Importance": "amet",
+            "CurrentState": "ipsum",
+            "Manufacture": "2017/02/04",
+            "Installed": "2015/11/14",
+            "Inspected": "2016/01/11",
+            "IsRejected": true,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "culpa sit sit velit mollit",
+            "Location": "Federated States Of Micronesia",
+            "Purpose": "ullamco",
+            "Importance": "do",
+            "CurrentState": "consectetur",
+            "Manufacture": "2016/09/23",
+            "Installed": "2015/01/03",
+            "Inspected": "2015/04/23",
+            "IsRejected": true,
+            "IsActive": false
+          }
+        ]
+      },
+      {
+        "Name": "Chandler Wade",
+        "IdentificationCode": "B51644712",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "fugiat id adipisicing ad consequat",
+            "Location": "Tennessee",
+            "Purpose": "dolore",
+            "Importance": "sint",
+            "CurrentState": "consectetur",
+            "Manufacture": "2015/09/06",
+            "Installed": "2015/02/08",
+            "Inspected": "2015/03/09",
+            "IsRejected": false,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "ad mollit eu voluptate commodo",
+            "Location": "Alaska",
+            "Purpose": "deserunt",
+            "Importance": "ea",
+            "CurrentState": "dolore",
+            "Manufacture": "2017/09/20",
+            "Installed": "2018/09/23",
+            "Inspected": "2015/06/07",
+            "IsRejected": false,
+            "IsActive": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Username": "Billie",
+    "IsActive": false,
+    "IsAdmin": false,
+    "MainUser": false,
+    "IdentificationCode": "77587352P",
+    "Company": "NETBOOK",
+    "Name": "Simon",
+    "Email": "simon@netbook.com",
+    "Phone": "+1 (884) 546-2445",
+    "Address": "293 Kent Avenue",
+    "City": "Cavalero",
+    "Country": "Louisiana",
+    "registered": "2014/08/01",
+    "About": "Tempor ut adipisicing veniam ea commodo pariatur consequat voluptate culpa aliqua quis esse. Aliquip aute voluptate pariatur reprehenderit culpa magna ea velit excepteur sunt. Sint id eiusmod ut fugiat aliqua Lorem id ea ea sunt. Dolor fugiat esse laboris sunt qui magna aliquip id id.",
+    "Clients": [
+      {
+        "Name": "Herminia Sheppard",
+        "IdentificationCode": "B72662558",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "enim ex est eu in",
+            "Location": "Texas",
+            "Purpose": "eiusmod",
+            "Importance": "ex",
+            "CurrentState": "do",
+            "Manufacture": "2018/10/21",
+            "Installed": "2016/07/15",
+            "Inspected": "2019/07/14",
+            "IsRejected": true,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "voluptate non proident tempor quis",
+            "Location": "North Dakota",
+            "Purpose": "eu",
+            "Importance": "consequat",
+            "CurrentState": "fugiat",
+            "Manufacture": "2018/11/02",
+            "Installed": "2016/04/28",
+            "Inspected": "2018/05/31",
+            "IsRejected": true,
+            "IsActive": false
+          }
+        ]
+      },
+      {
+        "Name": "Meadows Merrill",
+        "IdentificationCode": "B25672197",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "laborum magna veniam cillum ex",
+            "Location": "California",
+            "Purpose": "elit",
+            "Importance": "magna",
+            "CurrentState": "aliquip",
+            "Manufacture": "2014/09/01",
+            "Installed": "2017/01/11",
+            "Inspected": "2018/04/28",
+            "IsRejected": false,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "sit velit elit sunt magna",
+            "Location": "Connecticut",
+            "Purpose": "proident",
+            "Importance": "minim",
+            "CurrentState": "velit",
+            "Manufacture": "2017/08/26",
+            "Installed": "2016/12/24",
+            "Inspected": "2016/08/23",
+            "IsRejected": false,
+            "IsActive": true
+          }
+        ]
+      },
+      {
+        "Name": "Murphy Gilliam",
+        "IdentificationCode": "B81295436",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "ea ad cupidatat magna enim",
+            "Location": "American Samoa",
+            "Purpose": "duis",
+            "Importance": "consequat",
+            "CurrentState": "sunt",
+            "Manufacture": "2016/01/06",
+            "Installed": "2016/07/27",
+            "Inspected": "2015/01/16",
+            "IsRejected": true,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "sit Lorem excepteur culpa officia",
+            "Location": "Mississippi",
+            "Purpose": "ex",
+            "Importance": "ut",
+            "CurrentState": "esse",
+            "Manufacture": "2015/12/24",
+            "Installed": "2017/02/27",
+            "Inspected": "2014/03/20",
+            "IsRejected": true,
+            "IsActive": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Username": "Haynes",
+    "IsActive": false,
+    "IsAdmin": false,
+    "MainUser": true,
+    "IdentificationCode": "58114631P",
+    "Company": "INTERGEEK",
+    "Name": "Mcconnell",
+    "Email": "mcconnell@intergeek.org",
+    "Phone": "+1 (915) 504-3502",
+    "Address": "159 Glenwood Road",
+    "City": "Courtland",
+    "Country": "Alabama",
+    "registered": "2019/05/16",
+    "About": "Cupidatat fugiat eiusmod proident elit minim nisi quis nulla officia proident. Magna aliqua laboris veniam velit officia adipisicing nostrud. Commodo Lorem id nisi velit amet amet mollit elit cillum Lorem duis cillum commodo. Velit nulla sint nisi sunt anim do.",
+    "Clients": [
+      {
+        "Name": "Jeanine Foley",
+        "IdentificationCode": "B83076599",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "quis qui do elit commodo",
+            "Location": "South Carolina",
+            "Purpose": "cupidatat",
+            "Importance": "deserunt",
+            "CurrentState": "cillum",
+            "Manufacture": "2017/10/10",
+            "Installed": "2016/08/31",
+            "Inspected": "2016/02/13",
+            "IsRejected": false,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "ullamco adipisicing officia quis esse",
+            "Location": "Northern Mariana Islands",
+            "Purpose": "officia",
+            "Importance": "enim",
+            "CurrentState": "voluptate",
+            "Manufacture": "2014/06/11",
+            "Installed": "2015/06/17",
+            "Inspected": "2016/05/28",
+            "IsRejected": false,
+            "IsActive": true
+          }
+        ]
+      },
+      {
+        "Name": "Summers Ayers",
+        "IdentificationCode": "B40740135",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "sunt cillum ea dolor nostrud",
+            "Location": "Washington",
+            "Purpose": "voluptate",
+            "Importance": "deserunt",
+            "CurrentState": "consectetur",
+            "Manufacture": "2014/02/11",
+            "Installed": "2016/11/08",
+            "Inspected": "2018/01/05",
+            "IsRejected": true,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "elit nostrud veniam cillum nulla",
+            "Location": "Arkansas",
+            "Purpose": "veniam",
+            "Importance": "quis",
+            "CurrentState": "enim",
+            "Manufacture": "2015/07/29",
+            "Installed": "2018/06/10",
+            "Inspected": "2016/08/25",
+            "IsRejected": false,
+            "IsActive": false
+          }
+        ]
+      },
+      {
+        "Name": "Tara Duran",
+        "IdentificationCode": "B54982307",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "minim veniam ad ex laboris",
+            "Location": "Kentucky",
+            "Purpose": "sunt",
+            "Importance": "commodo",
+            "CurrentState": "aliquip",
+            "Manufacture": "2015/02/02",
+            "Installed": "2015/12/22",
+            "Inspected": "2017/02/15",
+            "IsRejected": false,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "deserunt ea reprehenderit ipsum in",
+            "Location": "Virginia",
+            "Purpose": "non",
+            "Importance": "cillum",
+            "CurrentState": "exercitation",
+            "Manufacture": "2014/10/18",
+            "Installed": "2018/10/10",
+            "Inspected": "2015/05/30",
+            "IsRejected": false,
+            "IsActive": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Username": "Suzanne",
+    "IsActive": false,
+    "IsAdmin": false,
+    "MainUser": false,
+    "IdentificationCode": "93830023P",
+    "Company": "KNEEDLES",
+    "Name": "Snider",
+    "Email": "snider@kneedles.info",
+    "Phone": "+1 (980) 401-3118",
+    "Address": "438 Grattan Street",
+    "City": "Taft",
+    "Country": "Michigan",
+    "registered": "2018/03/15",
+    "About": "Laboris ipsum dolor cupidatat incididunt Lorem exercitation. Nostrud labore voluptate deserunt fugiat consequat consectetur consequat qui. Qui excepteur enim voluptate est cillum veniam eiusmod. Sit velit officia mollit velit laboris qui et nostrud nostrud. Ad laboris Lorem sit id in. Nulla quis quis ullamco qui cupidatat enim tempor.",
+    "Clients": [
+      {
+        "Name": "Harmon Acevedo",
+        "IdentificationCode": "B99683658",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "consequat laborum mollit amet excepteur",
+            "Location": "Colorado",
+            "Purpose": "duis",
+            "Importance": "minim",
+            "CurrentState": "ullamco",
+            "Manufacture": "2019/07/09",
+            "Installed": "2014/03/13",
+            "Inspected": "2015/09/09",
+            "IsRejected": true,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "do est veniam et eiusmod",
+            "Location": "Missouri",
+            "Purpose": "officia",
+            "Importance": "elit",
+            "CurrentState": "elit",
+            "Manufacture": "2014/07/06",
+            "Installed": "2015/07/02",
+            "Inspected": "2017/07/23",
+            "IsRejected": true,
+            "IsActive": true
+          }
+        ]
+      },
+      {
+        "Name": "Fowler Griffin",
+        "IdentificationCode": "B37060666",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "eu commodo magna quis ea",
+            "Location": "Pennsylvania",
+            "Purpose": "occaecat",
+            "Importance": "ullamco",
+            "CurrentState": "velit",
+            "Manufacture": "2014/06/14",
+            "Installed": "2019/03/06",
+            "Inspected": "2019/09/27",
+            "IsRejected": true,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "voluptate consectetur incididunt aliquip voluptate",
+            "Location": "Maine",
+            "Purpose": "esse",
+            "Importance": "officia",
+            "CurrentState": "consectetur",
+            "Manufacture": "2014/02/27",
+            "Installed": "2017/08/18",
+            "Inspected": "2017/06/21",
+            "IsRejected": true,
+            "IsActive": true
+          }
+        ]
+      },
+      {
+        "Name": "Glenna Talley",
+        "IdentificationCode": "B14480913",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "consequat dolore qui dolore anim",
+            "Location": "Vermont",
+            "Purpose": "cillum",
+            "Importance": "aliqua",
+            "CurrentState": "excepteur",
+            "Manufacture": "2014/12/22",
+            "Installed": "2016/07/29",
+            "Inspected": "2018/07/17",
+            "IsRejected": false,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "qui enim commodo consectetur nostrud",
+            "Location": "Delaware",
+            "Purpose": "adipisicing",
+            "Importance": "et",
+            "CurrentState": "ex",
+            "Manufacture": "2014/01/26",
+            "Installed": "2016/08/05",
+            "Inspected": "2016/06/09",
+            "IsRejected": false,
+            "IsActive": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Username": "Alisha",
+    "IsActive": false,
+    "IsAdmin": false,
+    "MainUser": false,
+    "IdentificationCode": "26750665P",
+    "Company": "BEDLAM",
+    "Name": "Mccoy",
+    "Email": "mccoy@bedlam.me",
+    "Phone": "+1 (973) 453-2037",
+    "Address": "579 Nixon Court",
+    "City": "Lafferty",
+    "Country": "Massachusetts",
+    "registered": "2015/04/04",
+    "About": "Nostrud cupidatat ipsum ea laborum do do magna ut et. Culpa aute enim adipisicing occaecat eiusmod ullamco fugiat veniam do sint enim enim. Eiusmod reprehenderit et tempor sunt fugiat ea aliquip exercitation laboris aliqua mollit cupidatat ex. Amet Lorem culpa pariatur nisi.",
+    "Clients": [
+      {
+        "Name": "Regina Bates",
+        "IdentificationCode": "B39411636",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "amet officia cupidatat commodo eu",
+            "Location": "West Virginia",
+            "Purpose": "excepteur",
+            "Importance": "aliquip",
+            "CurrentState": "nulla",
+            "Manufacture": "2014/04/10",
+            "Installed": "2016/03/23",
+            "Inspected": "2015/09/08",
+            "IsRejected": true,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "sunt quis pariatur tempor consequat",
+            "Location": "Wisconsin",
+            "Purpose": "esse",
+            "Importance": "mollit",
+            "CurrentState": "cupidatat",
+            "Manufacture": "2015/10/12",
+            "Installed": "2014/04/15",
+            "Inspected": "2014/05/12",
+            "IsRejected": false,
+            "IsActive": true
+          }
+        ]
+      },
+      {
+        "Name": "Anastasia Hale",
+        "IdentificationCode": "B19460422",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "ut cillum excepteur Lorem do",
+            "Location": "New Jersey",
+            "Purpose": "sunt",
+            "Importance": "consequat",
+            "CurrentState": "cillum",
+            "Manufacture": "2014/12/20",
+            "Installed": "2014/06/20",
+            "Inspected": "2016/01/18",
+            "IsRejected": false,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "laborum qui esse anim adipisicing",
+            "Location": "Nevada",
+            "Purpose": "labore",
+            "Importance": "adipisicing",
+            "CurrentState": "tempor",
+            "Manufacture": "2018/02/09",
+            "Installed": "2018/02/15",
+            "Inspected": "2014/05/20",
+            "IsRejected": true,
+            "IsActive": false
+          }
+        ]
+      },
+      {
+        "Name": "Hopper Wilkerson",
+        "IdentificationCode": "B94499977",
+        "IsActive": true,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "ut magna ipsum dolore et",
+            "Location": "District Of Columbia",
+            "Purpose": "aliqua",
+            "Importance": "pariatur",
+            "CurrentState": "velit",
+            "Manufacture": "2019/08/09",
+            "Installed": "2018/05/29",
+            "Inspected": "2018/06/01",
+            "IsRejected": false,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "sint commodo sunt anim amet",
+            "Location": "South Dakota",
+            "Purpose": "nulla",
+            "Importance": "duis",
+            "CurrentState": "ex",
+            "Manufacture": "2018/07/10",
+            "Installed": "2016/01/13",
+            "Inspected": "2014/06/04",
+            "IsRejected": false,
+            "IsActive": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Username": "Deanna",
+    "IsActive": false,
+    "IsAdmin": true,
+    "MainUser": true,
+    "IdentificationCode": "43334332P",
+    "Company": "ORBIXTAR",
+    "Name": "Adela",
+    "Email": "adela@orbixtar.co.uk",
+    "Phone": "+1 (824) 492-2317",
+    "Address": "537 Banker Street",
+    "City": "Ribera",
+    "Country": "Arizona",
+    "registered": "2017/03/15",
+    "About": "Minim pariatur tempor adipisicing fugiat veniam Lorem irure reprehenderit aliquip fugiat enim culpa. Voluptate mollit magna ad sit nostrud proident velit labore ipsum nostrud elit dolor esse. Ex dolor ut irure officia minim do exercitation minim dolore nostrud. Sit occaecat mollit aliquip quis. Nisi sit nostrud sit commodo dolor deserunt quis. Ea in labore consequat qui labore dolor sint laboris deserunt.",
+    "Clients": [
+      {
+        "Name": "Martinez Berger",
+        "IdentificationCode": "B29330722",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "aliqua consectetur tempor aliquip veniam",
+            "Location": "Idaho",
+            "Purpose": "deserunt",
+            "Importance": "ipsum",
+            "CurrentState": "commodo",
+            "Manufacture": "2017/02/06",
+            "Installed": "2018/05/28",
+            "Inspected": "2017/03/25",
+            "IsRejected": true,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "et proident et cupidatat veniam",
+            "Location": "Maryland",
+            "Purpose": "adipisicing",
+            "Importance": "reprehenderit",
+            "CurrentState": "cupidatat",
+            "Manufacture": "2015/09/19",
+            "Installed": "2017/02/25",
+            "Inspected": "2014/02/06",
+            "IsRejected": false,
+            "IsActive": false
+          }
+        ]
+      },
+      {
+        "Name": "Gallagher Ware",
+        "IdentificationCode": "B49077595",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "occaecat amet dolor culpa minim",
+            "Location": "Kansas",
+            "Purpose": "sunt",
+            "Importance": "commodo",
+            "CurrentState": "ullamco",
+            "Manufacture": "2014/08/26",
+            "Installed": "2019/02/05",
+            "Inspected": "2015/05/06",
+            "IsRejected": false,
+            "IsActive": true
+          },
+          {
+            "Type": "PCI",
+            "Description": "laboris exercitation velit ullamco laboris",
+            "Location": "New Mexico",
+            "Purpose": "officia",
+            "Importance": "amet",
+            "CurrentState": "cillum",
+            "Manufacture": "2017/12/18",
+            "Installed": "2018/06/06",
+            "Inspected": "2015/05/22",
+            "IsRejected": false,
+            "IsActive": false
+          }
+        ]
+      },
+      {
+        "Name": "Lina Dennis",
+        "IdentificationCode": "B34155667",
+        "IsActive": false,
+        "Assets": [
+          {
+            "Type": "PCI",
+            "Description": "ullamco aute excepteur esse esse",
+            "Location": "Florida",
+            "Purpose": "laboris",
+            "Importance": "dolor",
+            "CurrentState": "deserunt",
+            "Manufacture": "2014/12/12",
+            "Installed": "2019/06/22",
+            "Inspected": "2015/08/22",
+            "IsRejected": true,
+            "IsActive": false
+          },
+          {
+            "Type": "PCI",
+            "Description": "voluptate minim laborum culpa aute",
+            "Location": "Guam",
+            "Purpose": "dolore",
+            "Importance": "duis",
+            "CurrentState": "irure",
+            "Manufacture": "2014/11/21",
+            "Installed": "2017/12/31",
+            "Inspected": "2017/11/15",
+            "IsRejected": true,
+            "IsActive": true
+          }
+        ]
+      }
+    ]
+  }
+]
