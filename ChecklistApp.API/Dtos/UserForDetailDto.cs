@@ -1,14 +1,15 @@
 using System;
 using System.Collections.Generic;
+using ChecklistApp.API.Models;
 
-namespace ChecklistApp.API.Models
+namespace ChecklistApp.API.Dtos
 {
-    public class User
+    public class UserForDetailDto
     {
+        
         public int Id { get; set; }
         public string Username { get; set; }
-        public byte[] PasswordHash { get; set; }
-        public byte[] PasswordSalt { get; set; }    
+        
         public bool IsActive { get; set; }
         public bool IsAdmin { get; set; }
         public string IdentificationCode { get; set; }

@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ChecklistApp.API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20191003150458_addedAssetClientUserEntity")]
-    partial class addedAssetClientUserEntity
+    [Migration("20191004171022_AssetClientUserEntities")]
+    partial class AssetClientUserEntities
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -100,8 +100,6 @@ namespace ChecklistApp.API.Migrations
                     b.Property<bool>("IsActive");
 
                     b.Property<bool>("IsAdmin");
-
-                    b.Property<bool>("MainUser");
 
                     b.Property<string>("Name");
 

@@ -99,8 +99,6 @@ namespace ChecklistApp.API.Migrations
 
                     b.Property<bool>("IsAdmin");
 
-                    b.Property<bool>("MainUser");
-
                     b.Property<string>("Name");
 
                     b.Property<byte[]>("PasswordHash");

@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace ChecklistApp.API.Migrations
 {
-    public partial class addedAssetClientUserEntity : Migration
+    public partial class AssetClientUserEntities : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -51,12 +51,6 @@ namespace ChecklistApp.API.Migrations
 
             migrationBuilder.AddColumn<bool>(
                 name: "IsAdmin",
-                table: "Users",
-                nullable: false,
-                defaultValue: false);
-
-            migrationBuilder.AddColumn<bool>(
-                name: "MainUser",
                 table: "Users",
                 nullable: false,
                 defaultValue: false);
@@ -181,10 +175,6 @@ namespace ChecklistApp.API.Migrations
 
             migrationBuilder.DropColumn(
                 name: "IsAdmin",
-                table: "Users");
-
-            migrationBuilder.DropColumn(
-                name: "MainUser",
                 table: "Users");
 
             migrationBuilder.DropColumn(
