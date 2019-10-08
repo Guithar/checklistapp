@@ -10,7 +10,10 @@ namespace ChecklistApp.API.Helpers
         {
             CreateMap<User, UserForListDto>();
             CreateMap<User, UserForDetailDto>();
+            CreateMap<UserForRegisterDto, User>();
+            CreateMap<User, UserForLoginDto>();
             CreateMap<Client, ClientForListDto>();
+
         }
     }
 }

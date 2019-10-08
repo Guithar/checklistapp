@@ -67,7 +67,6 @@ namespace ChecklistApp.API
 
             services.AddAutoMapper(typeof(AppRepository).Assembly);
             services.AddScoped<IAuthRepository, AuthRepository>();
-            services.AddScoped<IAppRepository,AppRepository>();
             services.AddDbContext<DataContext>(x => x.UseSqlServer
             (Configuration.GetConnectionString("SQLServerConnection")));
 
