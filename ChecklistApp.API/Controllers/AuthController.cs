@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using ChecklistApp.API.Data;
 using ChecklistApp.API.Dtos;
 using ChecklistApp.API.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
@@ -14,6 +15,7 @@ namespace ChecklistApp.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [AllowAnonymous]
     public class AuthController : ControllerBase
     {
         private IAuthRepository _repo;
@@ -36,7 +38,7 @@ namespace ChecklistApp.API.Controllers
                 return BadRequest("Username alredy exists");
             var userToCreate = new User
             {
-                Username = userForRegisterDto.Username
+                UserName = userForRegisterDto.Username
 
             };
 
@@ -57,7 +59,7 @@ namespace ChecklistApp.API.Controllers
             var claims = new[]
             {
                 new Claim(ClaimTypes.NameIdentifier, userFromRepo.Id.ToString()),
-                new Claim(ClaimTypes.Name, userFromRepo.Username)
+                new Claim(ClaimTypes.Name, userFromRepo.UserName)
             };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8
